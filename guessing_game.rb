@@ -14,4 +14,4 @@ while user_num != rando_num
 	end	
 end
 
-puts "You guessed correctly and it took you #{counter} guesses"
+puts "Yes, the number is #{rando_num} and it took you #{counter} guesses"
